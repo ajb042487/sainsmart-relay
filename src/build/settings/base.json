@@ -1,0 +1,6 @@
+{
+    "app_name": "Sainsmart Relay Controller",
+    "author": "Alexander Boone <19751995+ajb042487@users.noreply.github.com>",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.1"
+}
